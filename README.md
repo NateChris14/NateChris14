@@ -5,6 +5,5 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="![20250424_2330_Coding with RGB_simple_compose_01jsmyps7keczts9bays55bkv4](https://github.com/user-attachments/assets/347f3292-d890-4f93-83ba-d5354e0f9552)
-" />
+  <img src="https://github.com/NateChris14/NateChris14/blob/main/20250424_2330_Coding%20with%20RGB_simple_compose_01jsmyps7keczts9bays55bkv4.png"/>
 </div>

@@ -43,15 +43,15 @@
 - 🛰️ **Satellite Health Clustering & Monitoring**  
 - 🛠️ CI/CD pipelines with GitHub Actions + AWS
 
----
 
-### 📫 Let’s Connect
-
-- 💌 [Email Me](mailto:menonnathanchristopher@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nathanmenon14/) *(add your URL)*  
-- 📁 [Portfolio / Website](https://www.datascienceportfol.io/menonnathanchristoph) *(optional)*
-
----
+<div align="center">
+  <a href="menonnathanchristopher@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathanmenon14/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NateChris14&style=flat-square&color=blue" alt="Profile views"/>

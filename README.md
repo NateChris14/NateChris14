@@ -8,8 +8,6 @@
 </h1>
 
 <!-- README.md for GitHub Profile -->
-
-<h1 align="center">Hey there, I'm Nathan 👋</h1>
 <p align="center">
   🤖 Data Scientist | ☁️ Cloud Explorer | 🐍 Python Dev
 </p>

@@ -3,9 +3,7 @@
   <img src="https://github.com/NateChris14/NateChris14/blob/main/coffee-laptop-6016x3384-13640.png"/>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 
 <!-- README.md for GitHub Profile -->

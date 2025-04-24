@@ -9,7 +9,7 @@
 
 <!-- README.md for GitHub Profile -->
 <p align="center">
-  🤖 Data Scientist | ☁️ Cloud Explorer | 🐍 Python Dev
+  🤖 ML Practitioner | ☁️ Cloud Explorer | 🐍 Python Dev
 </p>
 
 ---
@@ -17,20 +17,8 @@
 ### 🧠 About Me
 
 - 🎓 Turning data into decisions (and sometimes chaos).
-- 🏎️ Currently building ML models to predict F1 racing madness.
-- ☁️ Deploying AI apps using Flask, Docker, Kubernetes & the cloud (AWS/GCP).
 - 💻 Writing clean code, breaking things, then fixing them again.
 - ☕ Fueled by coffee and curious bugs.
-
----
-
-### 🛠️ Tech Stack
-
-| ML & Data       | Deployment       | Cloud & DevOps      | Fun Stuff        |
-|----------------|------------------|---------------------|------------------|
-| `Scikit-learn` 🧠 | `Flask` 🍜          | `AWS` ☁️              | `GitHub Actions` ⚙️ |
-| `Pandas` 🐼      | `Docker` 🐳         | `GCP` 🛰️               | `VS Code` 💙       |
-| `Spark` ⚡        | `Kubernetes` 📦    | `CI/CD` 🚀            | `API Dev` 🔌        |
 
 ---
 

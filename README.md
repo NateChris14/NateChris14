@@ -51,4 +51,17 @@
   </a>
 </div>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,scikit-learn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=flask,docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,heroku,render" />
+  <img src="https://skillicons.dev/icons?i=vscode,matplotlib,seaborn,mysql" />
+</p>
+
+<hr>
+
 

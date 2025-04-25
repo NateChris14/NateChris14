@@ -27,6 +27,8 @@
 - 🛰️ **Satellite Health Clustering & Monitoring**  
 - 🛠️ CI/CD pipelines with GitHub Actions + AWS
 
+---
+
 ### Reach Out Via:
 
 
@@ -38,6 +40,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
+
+---
 
 ## 🛠️ Languages and Tools
 

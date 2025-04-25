@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Summary of my life .........</p>
-  <img src="https://github.com/NateChris14/NateChris14/blob/main/coffee-laptop-6016x3384-13640.png"/>
+  <img src="https://github.com/NateChris14/NateChris14/blob/main/20250424_2330_Coding%20with%20RGB_simple_compose_01jsmyps7keczts9bays55bkv4.png"/>
 </div>
 
 

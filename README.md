@@ -1,5 +1,5 @@
 <div align="center"> 
-  <b>Summary of my life .........</b>
+  ### Summary of my life .........
   <img src="https://github.com/NateChris14/NateChris14/blob/main/20250424_2330_Coding%20with%20RGB_simple_compose_01jsmyps7keczts9bays55bkv4.png"/>
 </div>
 

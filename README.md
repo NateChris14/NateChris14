@@ -62,7 +62,6 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=NateChris14&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nathan Menon's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NateChris14&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nathan Menon's" />
 </div>
 
 

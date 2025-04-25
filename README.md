@@ -1,5 +1,4 @@
 <div align="center"> 
-  ### Summary of my life .........
   <img src="https://github.com/NateChris14/NateChris14/blob/main/20250424_2330_Coding%20with%20RGB_simple_compose_01jsmyps7keczts9bays55bkv4.png"/>
 </div>
 
@@ -7,6 +6,11 @@
 
 
 <!-- README.md for GitHub Profile -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Nathan+Menon!;" />
+</h1>
+
 
 ### 🧠 About Me
 

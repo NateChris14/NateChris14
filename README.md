@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda" />
   <img src="https://skillicons.dev/icons?i=flask,docker,kubernetes,git,github,pkl" />
   <img src="https://skillicons.dev/icons?i=gcp,aws,heroku,githubactions" />
-  <img src="https://skillicons.dev/icons?i=vscode,mysql,html,js" />
+  <img src="https://skillicons.dev/icons?i=vscode,mysql,html,js,css" />
 </p>
 
 <hr>

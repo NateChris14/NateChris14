@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="menonnathanchristopher@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nathanmenon14/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 

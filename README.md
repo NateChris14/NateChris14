@@ -56,7 +56,7 @@ hobbies: ["Motorsports enthusiast","Coding","Working out"]
 
 <p align="center">
   <!-- Core Tools -->
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,html,css,js,git,githubactions,docker,kubernetes,aws,gcp,github,heroku,anaconda,vercel,powershell,sklearn,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,html,css,js,git,githubactions,docker,kubernetes,aws,gcp,github,heroku,anaconda,vercel,powershell,sklearn,vscode,dvc,mlflow" />
 </p>
 
 <!-- Optionally add this if you want separation or a heading -->

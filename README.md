@@ -18,8 +18,8 @@
 
 ```yaml
 name: Nathan Christopher Menon
-located_in: Milton Keynes, United Kingdom
-current_occupation: Artificial Intelligence Student
+located_in: Asansol, West Bengal
+current_occupation: Artificial Intelligence postgraduate
 education:
   [
     "Self-Taught Developer",

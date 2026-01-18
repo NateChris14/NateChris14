@@ -43,8 +43,8 @@ technical_background:
     "Intern - Healthcare Data Analytics"
   ]
   
-currently_learning: ["Natural Language Processing, FastAPI, Kubernetes"]
-2025 Goals: ["learn at least 15-20 new Technologies."]
+currently_learning: ["Natural Language Processing, FastAPI"]
+2026 Goals: ["Be proficient in GenAI"]
 hobbies: ["Motorsports enthusiast","Coding","Working out"]
 ```
   

@@ -56,7 +56,7 @@ hobbies: ["Motorsports enthusiast","Coding","Working out"]
 
 <p align="center">
   <!-- Core Tools -->
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,html,css,js,git,githubactions,docker,kubernetes,aws,gcp,github,heroku,anaconda,vercel,powershell,sklearn,vscode,fastapi,pytorch,markdown,notion,pkl,opencv,redis,regex,replit,stackoverflow,tensorflow,windows" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,html,css,js,git,githubactions,docker,kubernetes,aws,gcp,github,heroku,anaconda,vercel,powershell,sklearn,vscode,fastapi,pytorch,markdown,notion,pkl,opencv,redis,regex,replit,stackoverflow,tensorflow,windows,bash" />
 </p>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
